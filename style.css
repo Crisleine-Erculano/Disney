@@ -8,7 +8,7 @@ body{
    box-sizing: border-box;
    font-family: 'Lily Script One', cursive;
 }
-/*  Estilização do cabeçalho */
+/*  Estilização do Cabeçalho */
 .navegacao__cabecalho{ 
    font-size: 32px;
    text-align: center;
@@ -20,6 +20,14 @@ body{
    padding: 2.5rem;
 }
 .links__cabecalho{
-   text-decoration: none;
    color: #FFFFFF;
+   text-decoration: none;
+}
+/* Estilização do Banner*/
+.banner{
+   background-image: url(imagens/disney-banner\ 1.svg);
+   height: 65vh;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
