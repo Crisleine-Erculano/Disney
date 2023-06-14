@@ -8,3 +8,18 @@ body{
    box-sizing: border-box;
    font-family: 'Lily Script One', cursive;
 }
+/*  Estilização do cabeçalho */
+.navegacao__cabecalho{ 
+   font-size: 32px;
+   text-align: center;
+   width: 100vw;
+}
+.lista__cabecalho{
+   display: inline-block;
+   list-style: none;
+   padding: 2.5rem;
+}
+.links__cabecalho{
+   text-decoration: none;
+   color: #FFFFFF;
+}
